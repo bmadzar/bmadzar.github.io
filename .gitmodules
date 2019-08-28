@@ -1,0 +1,3 @@
+[submodule "CombinationGenerator"]
+	path = CombinationGenerator
+	url = https://github.com/bmadzar/CombinationGenerator
