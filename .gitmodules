@@ -1,3 +1,6 @@
 [submodule "CombinationGenerator"]
 	path = CombinationGenerator
 	url = https://github.com/bmadzar/CombinationGenerator
+[submodule "ColorConverter"]
+	path = ColorConverter
+	url = https://www.github.com/bmadzar/ColorConverter
